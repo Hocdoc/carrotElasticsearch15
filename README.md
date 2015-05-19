@@ -1,6 +1,7 @@
 # Carrot2 3.10.1 with Elasticsearch 1.5.2
 
-Testproject toshow my troubles with the two dependencies.
+Test project to show my troubles with these two dependencies.
+More infos can be found about the issue at http://issues.carrot2.org/browse/CARROT-1105 .
 
 When running with `sbt run` I get this error message:
 
